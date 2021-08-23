@@ -1,0 +1,22 @@
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+
+body {
+    background-image: url("image2.png");
+    color: white;
+}
+
+#camera {
+    border: 3px dotted;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: burlywood;
+    font-weight: bold;
+    font-size: 20px;
+
+}
